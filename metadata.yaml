@@ -1,0 +1,25 @@
+_repo: De-Groote-Pyramide_20502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ginkel, H. J. van
+    gutenberg_agent_id: '9337'
+    url: http://www.gutenberg.org/2009/agents/9337
+description: ''
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20502'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theosophy'
+- !lcsh 'Pyramids'
+- !lcc 'BP'
+title: De Groote Pyramide
+url: http://www.gutenberg.org/ebooks/20502
